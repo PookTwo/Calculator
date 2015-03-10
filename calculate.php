@@ -1,6 +1,6 @@
 <?php
 //calculate.php
-//calculate FLDC distribution
+//calculate FLDC distribution This is a test
 
 //Copyrght © 2014 FoldingCoin, All Rights Reserved
 
